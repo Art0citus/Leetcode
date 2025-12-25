@@ -5,18 +5,12 @@
 var lengthOfLastWord = function(s) {
     let length = 0;
   let i = s.length - 1;
-
-  // Skip trailing spaces
   while (i >= 0 && s[i] === ' ') {
     i--;
   }
-
-  // Count characters of last word
   while (i >= 0 && s[i] !== ' ') {
     length++;
     i--;
   }
-
   return length;
-    
 };
