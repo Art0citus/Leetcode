@@ -15,7 +15,7 @@ var reverseVowels = function(s) {
         } else if (!vowels.has(arr[right])) {
             right--;
         } else {
-            // both are vowels → swap
+
             [arr[left], arr[right]] = [arr[right], arr[left]];
             left++;
             right--;
