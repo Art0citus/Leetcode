@@ -17,7 +17,7 @@ var mySqrt = function(x) {
         }
 
         if (mid * mid < x) {
-            ans = mid;        // store best candidate
+            ans = mid;        
             left = mid + 1;
         } else {
             right = mid - 1;
