@@ -4,20 +4,14 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-     if (s.length !== t.length) return false;
-
-    const freq = new Map();
-
-    for (let ch of s) {
-        freq.set(ch, (freq.get(ch) || 0) + 1);
+    if (s.length !== t.length ) return false;
+    let map = {};
+    for (let char of s) {
+        map[char] = (map [char] || 0) + 1;
     }
-
-    for (let ch of t) {
-        if (!freq.has(ch)) return false;
-        freq.set(ch, freq.get(ch) - 1);
-        if (freq.get(ch) === 0) freq.delete(ch);
-    }
-
-    return freq.size === 0;
-    
+     for (let char of t) {
+        if (!map [char]) return false;
+        map [char]--;
+     }
+     return true;
 };
