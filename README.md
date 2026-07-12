@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Art0citus/Leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Art0citus/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Art0citus/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Art0citus/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Art0citus/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Art0citus/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
