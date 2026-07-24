@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Art0citus/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Art0citus/Leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
