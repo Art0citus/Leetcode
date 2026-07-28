@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Art0citus/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Art0citus/Leetcode/tree/master/0242-valid-anagram) |
 | [1528-shuffle-string](https://github.com/Art0citus/Leetcode/tree/master/1528-shuffle-string) |
+| [3110-score-of-a-string](https://github.com/Art0citus/Leetcode/tree/master/3110-score-of-a-string) |
 ## Sorting
 |  |
 | ------- |
