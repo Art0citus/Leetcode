@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Art0citus/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Art0citus/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Art0citus/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Art0citus/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Art0citus/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Art0citus/Leetcode/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Art0citus/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Art0citus/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Art0citus/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Art0citus/Leetcode/tree/master/0242-valid-anagram) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Art0citus/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Art0citus/Leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Art0citus/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
