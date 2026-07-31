@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Art0citus/Leetcode/tree/master/1122-relative-sort-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Art0citus/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
