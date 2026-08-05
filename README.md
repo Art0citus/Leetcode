@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Art0citus/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Art0citus/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Art0citus/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## String Matching
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Art0citus/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Art0citus/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
