@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Art0citus/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/Art0citus/Leetcode/tree/master/0525-contiguous-array) |
 | [1122-relative-sort-array](https://github.com/Art0citus/Leetcode/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/Art0citus/Leetcode/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/Art0citus/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Art0citus/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/Art0citus/Leetcode/tree/master/0525-contiguous-array) |
 | [1122-relative-sort-array](https://github.com/Art0citus/Leetcode/tree/master/1122-relative-sort-array) |
 ## String
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Art0citus/Leetcode/tree/master/0338-counting-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Art0citus/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
