@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Art0citus/Leetcode/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/Art0citus/Leetcode/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/Art0citus/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Art0citus/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Art0citus/Leetcode/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Art0citus/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Art0citus/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String Matching
 |  |
 | ------- |
