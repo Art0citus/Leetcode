@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Art0citus/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Art0citus/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Union-Find
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Art0citus/Leetcode/tree/master/0525-contiguous-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Art0citus/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
