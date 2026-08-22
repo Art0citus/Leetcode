@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Art0citus/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Art0citus/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Art0citus/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Art0citus/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Art0citus/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Art0citus/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Art0citus/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Art0citus/Leetcode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Art0citus/Leetcode/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
