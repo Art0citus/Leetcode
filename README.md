@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Art0citus/Leetcode/tree/master/1122-relative-sort-array) |
 | [1528-shuffle-string](https://github.com/Art0citus/Leetcode/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/Art0citus/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Art0citus/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Art0citus/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Art0citus/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Art0citus/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Art0citus/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Art0citus/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Art0citus/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
