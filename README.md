@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Art0citus/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Art0citus/Leetcode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Art0citus/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Art0citus/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Art0citus/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## String Matching
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Art0citus/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Art0citus/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
