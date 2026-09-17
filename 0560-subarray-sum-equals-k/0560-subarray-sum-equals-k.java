@@ -1,25 +1,28 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        HashMap<Integer, Integer> prefixMap = new HashMap<>();
-        
-        // Base case: a prefix sum of 0 has occurred 1 time (before elements start)
-        prefixMap.put(0, 1);
-        
-        int currentSum = 0;
-        int totalSubarrays = 0;
-        
-        for (int num : nums) {
-            currentSum += num;
-            
-            // If (currentSum - k) exists, it means a valid subarray ends here
-            if (prefixMap.containsKey(currentSum - k)) {
-                totalSubarrays += prefixMap.get(currentSum - k);
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int sum = 0;
+        int count = 0;
+
+        map.put(0, 1);
+
+        for (int i = 0; i < nums.length; i++) {
+
+            sum += nums[i];
+
+            if (map.containsKey(sum - k)) {
+                count += map.get(sum - k);
             }
-            
-            // Record the current prefix sum into the map
-            prefixMap.put(currentSum, prefixMap.getOrDefault(currentSum, 0) + 1);
+
+           if (map.containsKey(sum)) {
+    map.put(sum, map.get(sum) + 1);
+} else {
+    map.put(sum, 1);
+}
         }
-        
-        return totalSubarrays;
+
+        return count;
     }
 }
