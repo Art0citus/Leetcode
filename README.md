@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Art0citus/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Art0citus/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Art0citus/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Art0citus/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1122-relative-sort-array](https://github.com/Art0citus/Leetcode/tree/master/1122-relative-sort-array) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Art0citus/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Art0citus/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Art0citus/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Art0citus/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Art0citus/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Art0citus/Leetcode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/Art0citus/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 <!---LeetCode Topics End-->
